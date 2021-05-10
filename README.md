@@ -5,11 +5,11 @@ It is basic Google Keeper Clone with React Frameworks. You can add notes and del
 
 
 ## Create Notes
-<img src="img/notes.JPG" alt="Girl in a jacket" width="500" height="600">
+<img src="img/notes.JPG" alt="Girl in a jacket" width="1000" height="600">
 
 ## Add Note
-<img src="img/add.JPG" alt="Girl in a jacket" width="500" height="600">
+<img src="img/add.JPG" alt="Girl in a jacket" width="1000" height="600">
 
 ## Delete Note
-<img src="img/delete.JPG" alt="Girl in a jacket" width="500" height="600">
+<img src="img/delete.JPG" alt="Girl in a jacket" width="1000" height="600">
 
